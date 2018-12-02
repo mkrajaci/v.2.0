@@ -7,3 +7,4 @@ from app import User, Post
 user_1 = User(username='Mario', email='test@test.com', password='password')
 db.session.add(user_1)
 db.session.commit()
+User.query.all()
