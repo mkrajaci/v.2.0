@@ -1,6 +1,7 @@
 https://youtu.be/Wfx4YBzg16s
 
-Dodati environ detalje prema njegovoj uputi sa videa: https://youtu.be/5iWhQWVXosU
+sent.system.replies.to.users
+Dodati environ detalje prema njegovoj uputi sa videa: https://youtu.be/5iWhQWVXosU Try .bashrc instead﻿
 
 Kreirati gmail za slanje mailova.
 
