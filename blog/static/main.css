@@ -8,6 +8,35 @@ h1, h2, h3, h4, h5, h6 {
     color: #444444;
 }
 
+ul {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    margin: 0;
+    padding: 20px 0;
+    display: flex;
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0,0,0,.3);
+}
+
+ul li {
+    list-style: none;
+    text-align: center;
+    display: block;
+    border-right: 1px solid rgba(0,0,0,.2);
+}
+
+ul li:last-child {
+    border-right: none;
+}
+
+ul li a {
+    text-decoration: none;
+    padding: 0 50px;
+    display: block;
+}
+
 .bg-steel {
     background-color: #5f788a;
 }
