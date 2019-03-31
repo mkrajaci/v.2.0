@@ -6,3 +6,5 @@ Dodati environ detalje prema njegovoj uputi sa videa: https://youtu.be/5iWhQWVXo
 Kreirati gmail za slanje mailova.
 
 testirati slanje.
+
+bottom navigation simple: https://www.youtube.com/watch?v=A06uTZu8ZO4
