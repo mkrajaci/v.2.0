@@ -10,4 +10,4 @@ class Config:
     MAIL_PASSWORD = os.environ.get('EMAIL_PASS')
 
 
-#TODO: https://youtu.be/Wfx4YBzg16s?t=1650 dodati u envronment varijable.
+#TODO: https://youtu.be/Wfx4YBzg16s?t=1650 dodati u envronment varijable za bazu.

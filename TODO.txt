@@ -1,11 +1,17 @@
 https://youtu.be/Wfx4YBzg16s
 
-sent.system.replies.to.users
-Dodati environ detalje prema njegovoj uputi sa videa: https://youtu.be/5iWhQWVXosU Try .bashrc instead﻿
+Maknuti side bar navigation ili drugacije upotrijebiti
+
+Dodati environ detalje prema njegovoj uputi sa videa: https://youtu.be/5iWhQWVXosU
 
 Kreirati gmail za slanje mailova.
 
 testirati slanje.
 
-Bottom instagram navigation:
-https://www.youtube.com/watch?v=IvQAfNWnSYc
+bottom navigation simple: https://www.youtube.com/watch?v=A06uTZu8ZO4
+
+Promjena baze:
+https://youtu.be/cYWiDiIUxQc
+
+deployment
+https://youtu.be/goToXTC96Co
