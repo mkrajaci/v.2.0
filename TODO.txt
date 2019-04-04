@@ -11,7 +11,11 @@ testirati slanje.
 bottom navigation simple: https://www.youtube.com/watch?v=A06uTZu8ZO4
 
 Promjena baze:
+https://youtu.be/PJK950Gp780
+https://realpython.com/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/
 https://youtu.be/cYWiDiIUxQc
 
 deployment
 https://youtu.be/goToXTC96Co
+
+Ideja za temu: https://themes.getbootstrap.com/preview/?theme_id=1671

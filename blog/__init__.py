@@ -6,7 +6,7 @@ from flask_mail import Mail
 from blog.config import Config
 
 
-db = SQLAlchemy()
+db = SQLAlchemy()   # TODO: pretpostavljam da treba u () dodati app ili možda ne
 bcrypt = Bcrypt()
 login_manager = LoginManager()
 login_manager.login_view = 'users.login'
