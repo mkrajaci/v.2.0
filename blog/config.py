@@ -5,8 +5,8 @@ class Config:
     SQLALCHEMY_DATABASE_URI = 'sqlite:///site.db'
     # SQLALCHEMY_DATABASE_URI = 'postgresql://postgres:password@localhost/mojabaza'
     MAIL_SERVER = os.environ.get('MAIL_SERVER')
-    MAIL_PORT = 587
-    MAIL_USE_TLS = True
+    MAIL_PORT = os.environ.get('MAIL_PORT')
+    MAIL_USE_TLS = os.environ.get('MAIL_USE_TLS')
     MAIL_USERNAME = os.environ.get('EMAIL_USER')
     MAIL_PASSWORD = os.environ.get('EMAIL_PASS')
 
