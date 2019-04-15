@@ -3,6 +3,9 @@ https://youtu.be/Wfx4YBzg16s
 Maknuti side bar navigation ili drugacije upotrijebiti
 
 Dodati share button i like
+Moguće metode: čisti css trik: https://css-tricks.com/simple-social-sharing-links/
+Ili original plugin za face: https://developers.facebook.com/docs/plugins/like-button
+
 
 Dodati environ detalje prema njegovoj uputi sa videa: https://youtu.be/5iWhQWVXosU
 
